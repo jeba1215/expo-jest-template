@@ -1,0 +1,40 @@
+# Node
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+build/
+web-build/
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/
+
+# VSCode
+.vscode/
+
+# Env
+.env
+.env.*
+
+# Jest
+jest-test-results.json
+
+# Misc
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Expo assets
+assets/**/*.db
+assets/**/*.sqlite
